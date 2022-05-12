@@ -1,0 +1,8 @@
+﻿  Direct2DWindow.cpp
+D:\Лекции\3 курс\Систем.програм\SP.931902.basargina.anastasia.lab4\DPIScale.h(11,11): warning C4996: 'ID2D1Factory::GetDesktopDpi': Deprecated. Use DisplayInformation::LogicalDpi for Windows Store Apps or GetDpiForWindow for desktop apps.
+  Ellipses.cpp
+D:\Лекции\3 курс\Систем.програм\SP.931902.basargina.anastasia.lab4\DPIScale.h(11,11): warning C4996: 'ID2D1Factory::GetDesktopDpi': Deprecated. Use DisplayInformation::LogicalDpi for Windows Store Apps or GetDpiForWindow for desktop apps.
+  MainWindow.cpp
+D:\Лекции\3 курс\Систем.програм\SP.931902.basargina.anastasia.lab4\DPIScale.h(11,11): warning C4996: 'ID2D1Factory::GetDesktopDpi': Deprecated. Use DisplayInformation::LogicalDpi for Windows Store Apps or GetDpiForWindow for desktop apps.
+  Создание кода...
+  Ellipses.vcxproj -> D:\Лекции\3 курс\Систем.програм\SP.931902.basargina.anastasia.lab4\Debug\Ellipses.exe

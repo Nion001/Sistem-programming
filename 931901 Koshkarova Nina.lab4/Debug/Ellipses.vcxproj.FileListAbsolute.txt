@@ -1,0 +1,4 @@
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Систем.програм\др\sp_lab4-main\Debug\Ellipses.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Систем.програм\др\sp_lab4-main\Debug\Ellipses.pdb
+D:\Лекции\3 курс\Систем.програм\SP.931902.basargina.anastasia.lab4\Debug\Ellipses.exe
+D:\Лекции\3 курс\Систем.програм\SP.931902.basargina.anastasia.lab4\Debug\Ellipses.pdb
